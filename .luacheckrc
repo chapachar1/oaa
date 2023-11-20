@@ -1,7 +1,7 @@
 codes = true
 ranges = true
 cache = true
-max_line_length = 200
+max_line_length = 100
 allow_defined_top = true
 
 globals = { -- these globals can be set and accessed.
